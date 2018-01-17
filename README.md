@@ -39,9 +39,9 @@ gl._glMap.addSource({...})
 Create a mapbox account, then head to [https://www.mapbox.com/studio/](https://www.mapbox.com/studio/) and copy your access token that was automatically created for you. The access token should start with "pk.".
 
 ## Live examples
-[Basic example](http://rawgit.com/mapbox/mapbox-gl-leaflet/master/examples/basic.html)
+[Basic example](http://rawgit.com/Climax777/mapbox-gl-leaflet/master/examples/basic.html)
 
-[Cluster example](http://rawgit.com/mapbox/mapbox-gl-leaflet/master/examples/cluster.html)
+[Cluster example](http://rawgit.com/Climax777/mapbox-gl-leaflet/master/examples/cluster.html)
 
 Code for these examples is hosted in the [examples folder](https://github.com/mapbox/mapbox-gl-leaflet/tree/master/examples)
 
