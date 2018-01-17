@@ -32,7 +32,7 @@ var map = L.map('map', {maxZoom: 17}).setView([-37.821, 175.219], 16);
 
 var gl = L.mapboxGL({
     accessToken: 'no-token',
-    style: 'https://raw.githubusercontent.com/osm2vectortiles/mapbox-gl-styles/master/styles/bright-v9-cdn.json'
+    style: 'mapbox://styles/mapbox/satellite-streets-v9'
 }).addTo(map);
 
 var markers = L.markerClusterGroup();
